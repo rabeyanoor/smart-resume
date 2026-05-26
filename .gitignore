@@ -1,0 +1,7 @@
+# Local browser or server logs
+.DS_Store
+*.log
+.vscode/
+.idea/
+node_modules/
+package-lock.json
